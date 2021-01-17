@@ -1,16 +1,21 @@
-# chatting_application
+# Chatting Application
 
-A new Flutter project.
+Aim of this project is to make a chatting application from scratch and publish it on playstore.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a chatting application.
 
-A few resources to get you started if this is your first Flutter project:
+## Info About The Project
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Language Used --> Dart
+Framework Used --> Flutter
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+App Type --> Chatting
+To Be Published On --> Google Play Store
+
+## Important Points To Remember
+
+Note --> 1. Use "//Done " for any work done and then mention it here.
+         2. Use "//To Do " for any work to do the next day.
+         3. Use "//Bug ", with line number and what is the bug to mention a bug in the code.
